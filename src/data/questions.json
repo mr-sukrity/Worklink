@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is Worklink?",
+      "answer": "Worklink is an all-in-one job portal designed to connect job seekers with employers. Companies can post job openings, and users can browse and apply with ease. It offers a seamless experience for both sides, complete with secure login and a simple, modern interface."
+    },
+    {
+      "question": "How do I post a job?",
+      "answer": "If you're an employer, simply log in and head to the 'Post Job' section. Fill in the job details and submit the form — your listing will be live in no time."
+    },
+    {
+      "question": "How can I search for jobs?",
+      "answer": "You can explore jobs by entering keywords, selecting locations, categories, or using filters — all available right from the homepage or job search page."
+    },
+    {
+      "question": "How do I apply for a job?",
+      "answer": "Click on any job listing to view the full details. Then, follow the on-screen instructions — typically uploading your resume and filling out a quick form — to apply."
+    },
+    {
+      "question": "Can I save jobs to apply later?",
+      "answer": "Absolutely! Just click the 'Save Job' button on any listing. You’ll find all your saved jobs under your profile in the 'Saved Jobs' section."
+    },
+    {
+      "question": "How do I track my job applications?",
+      "answer": "Your profile includes an 'Applications' tab where you can view all the jobs you've applied to, along with real-time status updates for each application."
+    }
+  ]
+  
