@@ -15,7 +15,7 @@ const AppLayout = () => {
             <div className="flex flex-col items-center justify-center space-y-6">
               <div className="flex items-center space-x-6">
                 <a
-                  href="https://github.com/its-bismay"
+                  href="https://github.com/mr-sukrity"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors duration-200"
@@ -23,7 +23,7 @@ const AppLayout = () => {
                   <Github className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://x.com/RewatchRoom"
+                  href="https://x.com/RoySukrity?t=zagI8kcn6JnEkDS1OwJpuw&s=08"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors duration-200"
@@ -35,7 +35,7 @@ const AppLayout = () => {
                 <span>Made with</span>
                 <Heart className="h-6 w-6 fill-blue-500" />
                 <span>by</span>
-                <span className="font-medium text-white">Bismay Bibhabasu</span>
+                <span className="font-medium text-white">Sukrity Roy</span>
               </div>
               <div className="text-xs text-gray-400">
                 © {new Date().getFullYear()} All rights reserved
