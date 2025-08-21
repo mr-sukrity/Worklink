@@ -168,16 +168,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions or support, reach out via:
-- Email: bismaybibhabasu33@gmail.com
-- GitHub Issues: [Create an issue](https://github.com/its-bismay/Worklink/issues)
-- Instagram: [Connect with me](https://www.instagram.com/bismay_11)
+- Email: 2023ugee064@nitjsr.ac.in
+- GitHub Issues: [Create an issue](https://github.com/mr-sukrity/Worklink/issues)
+- Instagram: [Connect with me](https://www.instagram.com/_mr.sukrity?utm_source=qr&igsh=OHZmM2NjczBvd2hr)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/its-bismay/Worklink)
+- [GitHub Repository](https://github.com/mr-sukrity/Worklink)
 - [Live Demo](https://worklink-ten.vercel.app/)
 
 ---
 
-**Built with ❤️ by [Bismay](https://github.com/its-bismay)**
+**Built with ❤️ by [Sukrity](https://github.com/mr-sukrity)**
 
